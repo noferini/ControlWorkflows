@@ -13,7 +13,7 @@ wants:
 command:
   log: "{{ log_task_output }}"
   shell: true
-  user: root # o2-roc-cleanup must always run as root!
+  user: root # o2-roc-cleanup must always run as root!!
   value: "{{ len(modulepath)>0 ? _module_cmdline : _plain_cmdline }}"
   arguments:
     - "--light"
