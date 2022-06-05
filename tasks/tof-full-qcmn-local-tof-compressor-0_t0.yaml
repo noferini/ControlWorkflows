@@ -125,6 +125,7 @@ command:
     - "'x:TOF/RAWDATA'"
     - "--tof-compressor-output-desc"
     - "'CRAWDATA'"
+    - "--tof-compressor-paranoid"
     - "--tof-compressor-rdh-version"
     - "'6'"
     - "--workflow-suffix"
