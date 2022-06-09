@@ -131,4 +131,4 @@ command:
     - "--workflow-suffix"
     - "''"
     - "--tof-compressor-output-buffer-size"
-    - "'0'"
+    - "'1048576'"
