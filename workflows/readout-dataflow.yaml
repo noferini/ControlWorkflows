@@ -647,6 +647,9 @@ defaults:
       - tof-full-qcmn-local
       - tof-full-qcmn-paranoid-local
       - tof-full-qcmn-paran-32-local
+      - tof-full-qcmn-test1
+      - tof-full-qcmn-test2
+      - tof-full-qcmn-test3
       - tof-qcmn-compressor-local
       - minimal-dpl
       - qc-daq
