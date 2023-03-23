@@ -650,6 +650,7 @@ defaults:
       - tof-full-qcmn-test1
       - tof-full-qcmn-test2
       - tof-full-qcmn-test3
+      - tof-full-qcmn-test4
       - tof-qcmn-compressor-local
       - minimal-dpl
       - qc-daq
