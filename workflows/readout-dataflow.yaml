@@ -664,6 +664,7 @@ defaults:
       - tof-full-qcmn-paran-10cmp-local
       - tof-full-qcmn-paran-15cmp-local
       - tof-full-qcmn-paran-20cmp-local
+      - tof-full-qcmn-paran-15cmp-debug-local
       - tof-full-qcmn-paran-25cmp-local
       - tof-qcmn-compressor-local
       - minimal-dpl
